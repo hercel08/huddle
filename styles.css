@@ -188,7 +188,7 @@ nav.header {
 .top2 {
     background-image: url(images/bg-section-top-mobile-2.svg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     background-position: top;
     width: 100%;
     height: 100px;
